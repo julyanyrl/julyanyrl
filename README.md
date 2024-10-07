@@ -18,13 +18,13 @@ Hi, I'm Julyany, an 18-year-old student of Analysis and Systems Development, cur
 
 ### GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center">
   <a href="https://github.com/julyanyrl">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=julyanyrl&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyanyrl&layout=compact&langs_count=7&theme=one_dark_pro"/> 
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=julyanyrl&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true&cache_seconds=21600"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyanyrl&layout=compact&langs_count=7&theme=one_dark_pro&cache_seconds=21600"/> 
   </a>
 </div>
-    
+
 ### Contact
 
 <div> 
