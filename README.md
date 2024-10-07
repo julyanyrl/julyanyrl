@@ -4,7 +4,7 @@
 
 ### About me:
 
-Hi, I'm Julyany, an 18-year-old student of Analysis and Systems Development, currently in the second semester of my studies. I'm passionate about data analysis and aspire to build a career in this field. I enjoy learning new technologies and improving my coding skills.
+Hi, I'm Julyany, an 19-year-old student of Analysis and Systems Development, currently in the second semester of my studies. I'm passionate about data analysis and aspire to build a career in this field. I enjoy learning new technologies and improving my coding skills.
 
 ### Technologies and tools:
 
@@ -18,10 +18,12 @@ Hi, I'm Julyany, an 18-year-old student of Analysis and Systems Development, cur
 
 ### GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: space-between;">
   <a href="https://github.com/julyanyrl">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=julyanyrl&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true&cache_seconds=21600"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyanyrl&layout=compact&langs_count=7&theme=one_dark_pro&cache_seconds=21600"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julyanyrl&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true&cache_seconds=21600"/>
+  </a>
+  <a href="https://github.com/julyanyrl">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyanyrl&layout=compact&langs_count=7&theme=one_dark_pro&cache_seconds=21600"/>
   </a>
 </div>
 
