@@ -18,7 +18,7 @@ Hi, I'm Julyany, an 19-year-old student of Analysis and Systems Development, cur
 
 ### GitHub Stats
 
-<div align="center" style="display: flex; justify-content: space-between;">
+<div align="left" style="display: flex; justify-content: space-between;">
   <a href="https://github.com/julyanyrl">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julyanyrl&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true&cache_seconds=21600"/>
   </a>
