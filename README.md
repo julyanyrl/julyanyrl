@@ -4,7 +4,7 @@
 
 ### About me:
 
-Hi, I'm Julyany, an 19-year-old student of Analysis and Systems Development, currently in the second semester of my studies. I'm passionate about data analysis and aspire to build a career in this field. I enjoy learning new technologies and improving my coding skills.
+Hi, I'm Julyany, an 19-year-old student of Analysis and Systems Development, currently in the third semester of my studies. I'm passionate about data analysis and aspire to build a career in this field. I enjoy learning new technologies and improving my coding skills.
 
 ### Technologies and tools:
 
