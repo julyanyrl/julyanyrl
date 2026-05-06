@@ -4,17 +4,8 @@
 
 ### About me:
 
-Hi, I'm Julyany, an 19-year-old student of Analysis and Systems Development, currently in the third semester of my studies. I'm passionate about data analysis and aspire to build a career in this field. I enjoy learning new technologies and improving my coding skills.
+Hi, I'm Julyany, an 20-year-old student of Analysis and Systems Development, currently in the third semester of my studies. I'm passionate about data analysis and aspire to build a career in this field. I enjoy learning new technologies and improving my coding skills.
 
-### Technologies and tools:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ju-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ju-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ju-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ju-Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Ju-Python-PHP" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div><br>
 
 ### GitHub Stats
 
