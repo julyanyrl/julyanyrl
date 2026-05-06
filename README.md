@@ -6,14 +6,6 @@
 
 Hi, I'm Julyany, an 20-year-old student of Analysis and Systems Development, currently in the third semester of my studies. I'm passionate about data analysis and aspire to build a career in this field. I enjoy learning new technologies and improving my coding skills.
 
-
-### GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julyanyrl&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true&cache_seconds=21600"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julyanyrl&layout=compact&langs_count=7&theme=one_dark_pro&cache_seconds=21600"/>
-</div>
-
 ### Contact
 
 <div> 
